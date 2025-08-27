@@ -1,7 +1,4 @@
-# secure-s3-bucket-cloudformation
-A step-by-step guide for deploying a secure S3 bucket using AWS CloudFormation with AWS CLI
-
-# Deploying a Secure S3 Bucket Using AWS CloudFormation
+# Deploying a Secure S3 Bucket Using AWS CloudFormation with AWS CLI
 
 ## What is AWS CloudFormation?
 AWS CloudFormation is a service that helps you create and manage AWS resources using code instead of clicking around and manually setting things up in the AWS console. It's a simple way to manage infrastructure using code. You write a YAML file (called a template) that describes what you want (like creating a secure S3 bucket), and CloudFormation sets it up automatically. This means you're using Infrastructure as Code (IaC) to automatically provision an S3 bucket with security best practices.
