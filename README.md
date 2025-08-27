@@ -72,7 +72,7 @@ aws cloudformation deploy \
 
 Status will update in your terminal as shown below:
 
-
+![Stack Created in CLI](CLI-final-view.png)
 
 You can also go to CloudFormation in the AWS Console and view the stack status:
 
