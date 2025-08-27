@@ -76,7 +76,7 @@ Status will update in your terminal as shown below:
 
 You can also go to CloudFormation in the AWS Console and view the stack status:
 
-
+![Stack Created in CLI](console-final-view.png)
 
 ---
 
